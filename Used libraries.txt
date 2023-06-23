@@ -1,0 +1,2 @@
+https://github.com/opencv/opencv
+https://github.com/qt
