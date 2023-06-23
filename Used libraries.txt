@@ -1,2 +1,3 @@
+For this project I used OpenCV and Qt libraries
 https://github.com/opencv/opencv
 https://github.com/qt
