@@ -1,3 +1,4 @@
 For this project I used OpenCV and Qt libraries
 https://github.com/opencv/opencv
 https://github.com/qt
+Main code in app folder file main.cpp
